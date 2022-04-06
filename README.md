@@ -35,4 +35,4 @@ Figma
 * Малиновская Евгения (https://github.com/evgeniyamalinovskaya)
 
 **GitHub Pages**
-* [Demo](https://evgeniyamalinovskaya.github.io/mesto-project/)
+* [Demo](https://zhukek.github.io/mesto-project-1/)
