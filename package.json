@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/evgeniyamalinovskaya/mesto-project.git"
+    "url": "git+https://github.com/Zhukek/mesto-project-1.git"
   },
   "author": "Evgeniya Malinovskaya && Zhuk Ivan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/evgeniyamalinovskaya/mesto-project/issues"
+    "url": "https://github.com/Zhukek/mesto-project-1/issues"
   },
-  "homepage": "https://github.com/evgeniyamalinovskaya/mesto-project#readme",
+  "homepage": "https://github.com/Zhukek/mesto-project-1#readme",
   "devDependencies": {
     "@babel/core": "^7.17.5",
     "@babel/preset-env": "^7.16.11",
